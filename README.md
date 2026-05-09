@@ -1,7 +1,7 @@
 # Smart-Home-
 smart home automation system designed and implemented from scratch as a graduation project. Built entirely on AVR microcontrollers, the system monitors the home environment through multiple sensors and responds automatically — adjusting lighting, reacting to temperature changes, and detecting motion in real time.
 # 🏠 Smart Home System
-### Embedded Systems Graduation Project — ITI 2025
+### Embedded Systems Graduation Project 
 
 > A fully embedded smart home controller built on AVR microcontrollers — automating lighting, temperature response, and motion detection with no external computing required.
 
@@ -26,7 +26,7 @@ Everything runs on embedded hardware with no PC or cloud dependency. The microco
 
 ## 🛠️ Built With
 
-- **Microcontroller:** AVR (ATmega32 / ATmega16)
+- **Microcontroller:** AVR (ATmega32 )
 - **Language:** C
 - **Sensors:** Temperature sensor, PIR motion sensor, LDR light sensor
 - **Actuators:** Relays, DC motors/fans, LEDs or lamp modules
